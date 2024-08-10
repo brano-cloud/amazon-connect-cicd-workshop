@@ -1,27 +1,28 @@
 {
-    "accounts": [
+  "accounts": [
     {
-        "env": "dev",
-        "branch": "develop",
-        "enabled": true,
-        "account": "XXXXXXXXXXXX",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
+      "env": "dev",
+      "branch": "develop",
+      "enabled": true,
+      "account": "728024706996",
+      "region": ["us-east-1"],
+      "app": "ACME"
     },
     {
-        "env": "staging",
-        "branch": "staging",
-        "enabled": true,
-        "account": "XXXXXXXXXXXX",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
+      "env": "staging",
+      "branch": "staging",
+      "enabled": true,
+      "account": "728024706996",
+      "region": ["us-west-2"],
+      "app": "ACME"
     },
     {
-        "env": "prod",
-        "branch": "main",
-        "enabled": true,
-        "account": "XXXXXXXXXXXZ",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
-    }]
+      "env": "prod",
+      "branch": "main",
+      "enabled": true,
+      "account": "471340497680",
+      "region": ["us-west-2"],
+      "app": "ACME"
+    }
+  ]
 }
