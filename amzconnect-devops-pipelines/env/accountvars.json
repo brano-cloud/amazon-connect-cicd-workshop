@@ -3,7 +3,7 @@
     {
       "env": "dev",
       "branch": "develop",
-      "enabled": true,
+      "enabled": false,
       "account": "728024706996",
       "region": ["us-east-1"],
       "app": "ACME"
@@ -11,7 +11,7 @@
     {
       "env": "staging",
       "branch": "staging",
-      "enabled": true,
+      "enabled": false,
       "account": "728024706996",
       "region": ["us-west-2"],
       "app": "ACME"
