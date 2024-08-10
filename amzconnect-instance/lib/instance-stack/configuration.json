@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "bc-cicd-workshop",
-  "instanceStorageBucketName": "connect-bc-cicd-workshop",
+  "instanceAlias": "bc-cicdworkshop",
+  "instanceStorageBucketName": "connect-bc-cicdworkshop",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
