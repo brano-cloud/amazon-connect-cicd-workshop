@@ -1,7 +1,7 @@
 {
   "accounts": [
     {
-      "env": "prod",
+      "env": "dev",
       "branch": "main",
       "enabled": true,
       "account": "471340497680",

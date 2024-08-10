@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "bc-cicd-workshop",
+  "instanceStorageBucketName": "connect-bc-cicd-workshop",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
